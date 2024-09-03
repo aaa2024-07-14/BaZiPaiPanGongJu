@@ -1,5 +1,7 @@
+我之前的两个GITHUB号都不能登录了所以用分支更新。
 
-天干地支 排盘 八字 十神 神煞 五行 命理 算命 本软件为一个完整的C# .NET 8工程。当前版本v2024-04-09
+
+天干地支 排盘 八字 十神 神煞 五行 命理 算命 本软件为一个完整的C# .NET 8工程。
 
 已知问题：只能在1920X1080分辨率下正常显示。
 三个小时学会看八字https://www.youtube.com/watch?v=Y1SfZ22-jPE&pp=ygUk5LiJ5Liq5bCP5pe25a2m5Lya55yL5YWr5a2X56ys5LiA6ZuG
