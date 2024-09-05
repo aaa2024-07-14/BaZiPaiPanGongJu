@@ -7,8 +7,7 @@
 已知问题：只能在1920X1080分辨率下正常显示。
 三个小时学会看八字https://www.youtube.com/watch?v=Y1SfZ22-jPE&pp=ygUk5LiJ5Liq5bCP5pe25a2m5Lya55yL5YWr5a2X56ys5LiA6ZuG
 
-
-![Snipaste_2024-09-05_11-01-14](https://github.com/user-attachments/assets/fdfcec9d-84a8-4e5a-9817-0c5182c5061d)
+![Snipaste_2024-09-05_18-35-11](https://github.com/user-attachments/assets/4bff2894-4b5a-406b-a66c-d0697f0e0028)
 
 
 八字排盘工具4K版-2024-09-04。（万年历版本1.5.11）
