@@ -5,7 +5,8 @@
 天干地支 排盘 八字 十神 神煞 五行 命理 算命 本软件为一个完整的C# .NET 8工程。
 三个小时学会看八字https://www.youtube.com/watch?v=Y1SfZ22-jPE&pp=ygUk5LiJ5Liq5bCP5pe25a2m5Lya55yL5YWr5a2X56ys5LiA6ZuG
 
-![Snipaste_2024-09-05_18-35-11](https://github.com/user-attachments/assets/4bff2894-4b5a-406b-a66c-d0697f0e0028)
+
+![Snipaste_2024-10-28_12-49-54](https://github.com/user-attachments/assets/6960cec2-7e8e-426b-be87-991dc954a162)
 
 
 八字排盘工具4K版-2024-09-04。（万年历版本1.5.11）
