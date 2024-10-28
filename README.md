@@ -6,12 +6,7 @@
 三个小时学会看八字https://www.youtube.com/watch?v=Y1SfZ22-jPE&pp=ygUk5LiJ5Liq5bCP5pe25a2m5Lya55yL5YWr5a2X56ys5LiA6ZuG
 
 
-![Snipaste_2024-10-28_12-49-54](https://github.com/user-attachments/assets/6960cec2-7e8e-426b-be87-991dc954a162)
-
-
-八字排盘工具4K版-2024-09-04。（万年历版本1.5.11）
-
-<img width="1920" alt="Snipaste_2024-09-04_20-41-15" src="https://github.com/user-attachments/assets/6620afef-a403-4041-839e-f080a3881894">
+![Snipaste_2024-10-28_16-06-11](https://github.com/user-attachments/assets/c14dd1b2-a678-48b6-9135-06d33b9544c5)
 
 此版本解决了高分辨率下的显示问题。
 学习八字预测不用死记硬背。不用担心没时间。只要懂五行生克就可以学会。
