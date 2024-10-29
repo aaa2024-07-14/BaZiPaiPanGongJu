@@ -6,8 +6,8 @@
 三个小时学会看八字https://www.youtube.com/watch?v=Y1SfZ22-jPE&pp=ygUk5LiJ5Liq5bCP5pe25a2m5Lya55yL5YWr5a2X56ys5LiA6ZuG
 
 
-![Snipaste_2024-10-29_12-25-19](https://github.com/user-attachments/assets/55e86fd3-5b95-4a97-b8f9-8497b7c459a4)
 
+![Snipaste_2024-10-29_20-07-17](https://github.com/user-attachments/assets/26d6c3a6-b323-4d01-aa19-afc50fe349b2)
 
 
 此版本解决了高分辨率下的显示问题。
