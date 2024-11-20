@@ -6,7 +6,8 @@
 三个小时学会看八字https://www.youtube.com/watch?v=Y1SfZ22-jPE&pp=ygUk5LiJ5Liq5bCP5pe25a2m5Lya55yL5YWr5a2X56ys5LiA6ZuG
 
 
-![Snipaste_2024-11-18_11-23-25](https://github.com/user-attachments/assets/5e4f4e8a-cace-4adc-9b6f-747d8c4d05ef)
+![Snipaste_2024-11-20_17-10-10](https://github.com/user-attachments/assets/31454d16-bd13-4a2d-9706-fe7c1615651b)
+![Snipaste_2024-11-20_17-09-51](https://github.com/user-attachments/assets/24fd8e85-542e-41d7-ba3e-c07450cc116c)
 
 
 
